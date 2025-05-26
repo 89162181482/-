@@ -1,0 +1,385 @@
+{
+    "\u0418\u043d\u0434\u0440\u0430": {
+        "name": "\u0418\u043d\u0434\u0440\u0430",
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u0412\u043e\u0438\u043d",
+        "level": 1,
+        "stats": {
+            "strength": 11,
+            "dexterity": 11,
+            "constitution": 11,
+            "intelligence": 11,
+            "wisdom": 11,
+            "charisma": 11
+        }
+    },
+    "\u041a\u0435\u0439\u043d": {
+        "name": "\u041a\u0435\u0439\u043d",
+        "race": "\u0414\u0440\u0430\u043a\u043e\u043d\u043e\u0440\u043e\u0436\u0434\u0451\u043d\u043d\u044b\u0439",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "level": 4,
+        "stats": {
+            "strength": 12,
+            "dexterity": 10,
+            "constitution": 10,
+            "intelligence": 10,
+            "wisdom": 10,
+            "charisma": 11
+        }
+    },
+    "\u041f\u0438\u043a\u0430": {
+        "name": "\u041f\u0438\u043a\u0430",
+        "level": 1,
+        "race": "\u0413\u043e\u0431\u043b\u0438\u043d",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+        "stats": {
+            "strength": 15,
+            "dexterity": 16,
+            "constitution": 14,
+            "intelligence": 12,
+            "wisdom": 10,
+            "charisma": 8
+        },
+        "cantrips": [
+            "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0443\u043a\u0430"
+        ],
+        "spells": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u0430\u0440"
+        ]
+    },
+    "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0410\u0441\u043f\u043e\u0444\u043e\u0432\u0438\u043d\u043e\u0432\u0438\u0447": {
+        "name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0410\u0441\u043f\u043e\u0444\u043e\u0432\u0438\u043d\u043e\u0432\u0438\u0447",
+        "level": 1,
+        "race": "\u0413\u043d\u043e\u043c",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u0411\u043e\u0435\u0432\u043e\u0439 \u043c\u0430\u0441\u0442\u0435\u0440",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 10,
+            "constitution": 16,
+            "intelligence": 8,
+            "wisdom": 14,
+            "charisma": 12
+        }
+    },
+    "\u0413\u043d\u043e\u043c": {
+        "name": "\u0413\u043d\u043e\u043c",
+        "level": 1,
+        "race": "\u0413\u043d\u043e\u043c",
+        "class": "\u041f\u043b\u0443\u0442",
+        "subclass": "\u0423\u0431\u0438\u0439\u0446\u0430",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 8,
+            "dexterity": 8,
+            "constitution": 10,
+            "intelligence": 8,
+            "wisdom": 9,
+            "charisma": 15
+        }
+    },
+    "\u0427\u0435\u043b\u043e\u0432\u0435\u043a": {
+        "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "level": 1,
+        "race": "\u041e\u0440\u043a",
+        "class": "\u0416\u0440\u0435\u0446",
+        "subclass": "\u0413\u0440\u043e\u043c\u0430",
+        "stats": {
+            "strength": 12,
+            "dexterity": 10,
+            "constitution": 9,
+            "intelligence": 8,
+            "wisdom": 15,
+            "charisma": 8
+        },
+        "cantrips": [
+            "\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b"
+        ],
+        "spells": [
+            "\u0417\u0430\u0449\u0438\u0442\u0430 \u043e\u0442 \u0437\u043b\u0430 \u0438 \u0434\u043e\u0431\u0440\u0430"
+        ]
+    },
+    "\u0412\u043e\u043b\u043e\u0434\u044f \u0412\u043e\u043b\u043e\u043d\u0434\u0435\u0440\u043c\u043e\u0442\u043e\u0432\u0438\u0447 \u0412\u043e\u043b\u043e\u043d\u0434": {
+        "name": "\u0412\u043e\u043b\u043e\u0434\u044f \u0412\u043e\u043b\u043e\u043d\u0434\u0435\u0440\u043c\u043e\u0442\u043e\u0432\u0438\u0447 \u0412\u043e\u043b\u043e\u043d\u0434",
+        "level": 1,
+        "race": "\u0413\u043e\u0431\u043b\u0438\u043d",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u043d\u0435\u043a\u0440\u043e\u043c\u0430\u043d\u0442\u0438\u0438",
+        "stats": {
+            "strength": 10,
+            "dexterity": 15,
+            "constitution": 16,
+            "intelligence": 8,
+            "wisdom": 8,
+            "charisma": 8
+        },
+        "cantrips": [
+            "\u041b\u0443\u0447 \u0445\u043e\u043b\u043e\u0434\u0430"
+        ],
+        "spells": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u0430\u0440"
+        ]
+    },
+    "\u041a\u043e\u0440\u0430\u0441\u044c": {
+        "name": "\u041a\u043e\u0440\u0430\u0441\u044c",
+        "level": 1,
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u041f\u043b\u0443\u0442",
+        "subclass": "\u041c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0440\u044e\u043a\u0430\u0447",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 13,
+            "dexterity": 14,
+            "constitution": 11,
+            "intelligence": 15,
+            "wisdom": 9,
+            "charisma": 16
+        }
+    },
+    "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439": {
+        "name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439",
+        "level": 1,
+        "race": "\u042d\u043b\u044c\u0444",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u041c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u044b\u0446\u0430\u0440\u044c",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 16,
+            "constitution": 13,
+            "intelligence": 12,
+            "wisdom": 11,
+            "charisma": 8
+        }
+    },
+    "\u041f\u0435\u0442\u0440": {
+        "name": "\u041f\u0435\u0442\u0440",
+        "level": 1,
+        "race": "\u0413\u043e\u0431\u043b\u0438\u043d",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+        "stats": {
+            "strength": 14,
+            "dexterity": 15,
+            "constitution": 13,
+            "intelligence": 10,
+            "wisdom": 8,
+            "charisma": 15
+        },
+        "cantrips": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u043d\u0430\u0440\u044f\u0434"
+        ],
+        "spells": [
+            "\u041d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c"
+        ]
+    },
+    "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u04361": {
+        "name": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u04361",
+        "level": 1,
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+        "stats": {
+            "strength": 11,
+            "dexterity": 13,
+            "constitution": 9,
+            "intelligence": 14,
+            "wisdom": 16,
+            "charisma": 15
+        },
+        "cantrips": [
+            "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0443\u043a\u0430"
+        ],
+        "spells": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u0430\u0440"
+        ]
+    },
+    "/start": {
+        "name": "/start",
+        "level": 1,
+        "race": "\u042d\u043b\u044c\u0444",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u0411\u043e\u0435\u0432\u043e\u0439 \u043c\u0430\u0441\u0442\u0435\u0440",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 16,
+            "constitution": 13,
+            "intelligence": 10,
+            "wisdom": 9,
+            "charisma": 12
+        }
+    },
+    "\u0412\u043e\u043b\u044f": {
+        "name": "\u0412\u043e\u043b\u044f",
+        "level": 1,
+        "race": "\u0413\u043d\u043e\u043c",
+        "class": "\u041f\u043b\u0443\u0442",
+        "subclass": "\u041c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0440\u044e\u043a\u0430\u0447",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 14,
+            "dexterity": 10,
+            "constitution": 17,
+            "intelligence": 8,
+            "wisdom": 13,
+            "charisma": 13
+        }
+    },
+    "\u0424\u043b\u043e\u0440\u0430": {
+        "name": "\u0424\u043b\u043e\u0440\u0430",
+        "level": 1,
+        "race": "\u042d\u043b\u044c\u0444",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0438\u043b\u043b\u044e\u0437\u0438\u0439",
+        "stats": {
+            "strength": 13,
+            "dexterity": 14,
+            "constitution": 10,
+            "intelligence": 15,
+            "wisdom": 9,
+            "charisma": 14
+        },
+        "cantrips": [
+            "\u041b\u0443\u0447 \u0445\u043e\u043b\u043e\u0434\u0430"
+        ],
+        "spells": [
+            "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430"
+        ]
+    },
+    "\u0412\u043e\u0432\u0430": {
+        "name": "\u0412\u043e\u0432\u0430",
+        "level": 1,
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u041f\u043b\u0443\u0442",
+        "subclass": "\u0412\u043e\u0440",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 11,
+            "dexterity": 16,
+            "constitution": 9,
+            "intelligence": 15,
+            "wisdom": 14,
+            "charisma": 13
+        }
+    },
+    "\u041f\u0435\u0442\u044f": {
+        "name": "\u041f\u0435\u0442\u044f",
+        "level": 1,
+        "race": "\u041e\u0440\u043a",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+        "stats": {
+            "strength": 17,
+            "dexterity": 14,
+            "constitution": 14,
+            "intelligence": 12,
+            "wisdom": 10,
+            "charisma": 8
+        },
+        "cantrips": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u043d\u0430\u0440\u044f\u0434"
+        ],
+        "spells": [
+            "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430"
+        ]
+    },
+    "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440": {
+        "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+        "level": 1,
+        "race": "\u0414\u0440\u0430\u043a\u043e\u043d\u043e\u0440\u043e\u0436\u0434\u0451\u043d\u043d\u044b\u0439",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 14,
+            "constitution": 15,
+            "intelligence": 12,
+            "wisdom": 10,
+            "charisma": 9
+        }
+    },
+    "\u041c\u0418\u0448\u0430": {
+        "name": "\u041c\u0418\u0448\u0430",
+        "level": 1,
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "subclass": "\u0428\u043a\u043e\u043b\u0430 \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+        "stats": {
+            "strength": 15,
+            "dexterity": 13,
+            "constitution": 14,
+            "intelligence": 9,
+            "wisdom": 16,
+            "charisma": 11
+        },
+        "cantrips": [
+            "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u043d\u0430\u0440\u044f\u0434"
+        ],
+        "spells": [
+            "\u041d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c"
+        ]
+    },
+    "\u041c\u0430\u0441\u0442\u0443\u0440\u0431\u0435\u043a": {
+        "name": "\u041c\u0430\u0441\u0442\u0443\u0440\u0431\u0435\u043a",
+        "level": 1,
+        "race": "\u0413\u043e\u0431\u043b\u0438\u043d",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u0427\u0435\u043c\u043f\u0438\u043e\u043d",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 14,
+            "constitution": 14,
+            "intelligence": 8,
+            "wisdom": 10,
+            "charisma": 14
+        }
+    },
+    "\u0418\u0438": {
+        "name": "\u0418\u0438",
+        "level": 1,
+        "race": "\u042d\u043b\u044c\u0444",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u041c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u044b\u0446\u0430\u0440\u044c",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 15,
+            "dexterity": 16,
+            "constitution": 13,
+            "intelligence": 10,
+            "wisdom": 9,
+            "charisma": 12
+        }
+    },
+    "\u041b\u0435\u0441\u043d\u0438\u0446\u043a\u0438\u0439": {
+        "name": "\u041b\u0435\u0441\u043d\u0438\u0446\u043a\u0438\u0439",
+        "level": 1,
+        "race": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a",
+        "class": "\u0412\u043e\u0438\u043d",
+        "subclass": "\u0411\u043e\u0435\u0432\u043e\u0439 \u043c\u0430\u0441\u0442\u0435\u0440",
+        "spells": [],
+        "cantrips": [],
+        "stats": {
+            "strength": 16,
+            "dexterity": 13,
+            "constitution": 14,
+            "intelligence": 15,
+            "wisdom": 9,
+            "charisma": 11
+        }
+    }
+}
